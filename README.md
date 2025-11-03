@@ -12,5 +12,5 @@ Team member : Nisha P
 Team member : Padmavathy S
 
 Team member : Rahini K
-Servicenow Instance:
-Demo Vedio Link:
+Servicenow Instance:https://nme.smartinternz.com/Student/guided_project_workspace/2293
+Demo Vedio Link:https://drive.google.com/drive/folders/1wkeko7B2bgZDbHxc_w_gJGj_tPecic-b?usp=drive_link
